@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hi, I’m Saurabh 👋<br><br>🎓 Postgraduate in Computer Management with strong interest in Python programming, Data Analysis, and Software Development.<br>💡 Passionate about solving real-world problems through clean code and data-driven solutions.<br>📊 <b>Skilled</b> in Python, SQL, Data Cleaning, EDA, and Dashboard Development.<br>🚀 Currently improving my knowledge in Data Analytics, Backend Development, and Project Building.<br>📚 Always learning new technologies and working on practical projects to strengthen my technical skills.<br><br>
 <b>🔧📊 Skills :</B>
-<br>Python Programming<br>Data Analysis & EDA<br>SQL & Database Management<br>Object Oriented Programming (OOP)<br>Power BI & Data Visualization<br>Git & GitHub<br>Microsoft Excel<br><br>
+<br><br>Python Programming<br>Data Analysis & EDA<br>SQL & Database Management<br>Object Oriented Programming (OOP)<br>Power BI & Data Visualization<br>Git & GitHub<br>Microsoft Excel<br><br>
 <b>🌱 Currently Learning :</b>
-<br>Advanced Python Concepts<br>Data Analytics Projects<br>Backend Development<br>
+<br><br>Advanced Python Concepts<br>Data Analytics Projects<br>Backend Development<br><br>
 <b>🎯 Goals :</b>
-<br>Build impactful real-world projects<br>Contribute to open source<br>Start a professional career in IT/Data Analytics
+<br><br>Build impactful real-world projects<br>Contribute to open source<br>Start a professional career in IT/Data Analytics<br><br>
 
 
 ## 🌐 Socials:
